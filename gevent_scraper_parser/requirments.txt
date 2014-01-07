@@ -1,0 +1,15 @@
+Django==1.4.10
+argparse==1.2.1
+beautifulsoup4==4.3.2
+django-socketio-alt==0.2.1
+gevent==1.0
+gevent-socketio==0.3.5-rc2
+gevent-websocket==0.9.1
+greenlet==0.4.1
+jsbeautifier==1.4.2
+numpy==1.8.0
+requests==2.1.0
+scrapely==0.9
+six==1.5.1
+w3lib==1.5
+wsgiref==0.1.2
